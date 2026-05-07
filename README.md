@@ -151,7 +151,7 @@ The chatbot contains multiple intents.
 
 ## 🔹 Chatbot Output
 
-![Google Form](chatbox.png)
+![Google Form](mychatbox.png)
 
 ---
 
