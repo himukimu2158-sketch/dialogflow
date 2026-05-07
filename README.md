@@ -127,7 +127,7 @@ The chatbot contains multiple intents.
 
 ## 🔹 Dialogflow Messenger Integration
 
-![Google Form](integration.png)
+![Google Form](inteegration.png)
 
 ---
 
