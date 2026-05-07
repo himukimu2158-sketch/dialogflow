@@ -131,12 +131,6 @@ The chatbot contains multiple intents.
 
 ---
 
-## 🔹 Intents Created
-
-![Google Form](intents.png)
-
----
-
 ## 🔹 Training Phrases
 
 ![Google Form](trainingphrase.png)
