@@ -139,7 +139,7 @@ The chatbot contains multiple intents.
 
 ## 🔹 Training Phrases
 
-![Google Form](training_phrase.png)
+![Google Form](trainingphrase.png)
 
 ---
 
