@@ -129,11 +129,6 @@ The chatbot contains multiple intents.
 
 ![Google Form](inteegration.png)
 
----
-
-## 🔹 Training Phrases
-
-![Google Form](trainingphrase.png)
 
 ---
 
@@ -143,9 +138,6 @@ The chatbot contains multiple intents.
 
 ---
 
-## 🔹 Chatbot Output
-
-![Google Form](mychatbox.png)
 
 ---
 
